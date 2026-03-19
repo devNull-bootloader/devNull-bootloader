@@ -4,7 +4,7 @@
 
 </div>
 
-I’m an Indian student from Germany with a strong interest in **mathematics, physics, and computer science**.  
+I’m an Indian student in Germany with a strong interest in **mathematics, physics, and computer science**.  
 I enjoy building things, solving hard problems, and learning how the world works — from algorithms to astrophysics.
 
 ---
